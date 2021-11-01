@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🎓 Computer Engineering Student  <a href="http://www.menofia.edu.eg/fee/Home/en">@Faculty of Electronics Engineering Menofia University</a>
-- ✍️Technical Blogger at <a href="https://hashnode.com/@meska54" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode" /></a>
-- 🏃‍♂️ I am passionate about Back-End Engineering and Software Architecture
+- ✍️ Technical Blogger at <a href="https://hashnode.com/@meska54" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode" /></a>
+- 🏃‍♂️ Passionate about Back-End Engineering and Software Architecture
  
 
