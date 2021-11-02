@@ -19,3 +19,55 @@ Here are some ideas to get you started:
 - 🏃‍♂️ Passionate about Back-End Engineering and Software Architecture
  
 
+<br/>
+<div align="center">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"
+    width="60px"
+  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"
+    width="60px"
+    />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
+    width="60px"
+  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"
+    width="60px"
+  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+    width="60px"
+  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"
+    width="60px"
+  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <br/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60px"/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60xp"/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" width="60px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="60px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="60px"/>
+
+  <br />
+  <br />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mrbomber0x001&show_icons=true&theme=react&&hide_border=true"
+  />
+  <br />
+  <br />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mrbomber0x001&&theme=react&&hide_border=true"
+  />
+</div>
