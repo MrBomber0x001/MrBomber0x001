@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 - 🎓 Computer Engineering Student  <a href="http://www.menofia.edu.eg/fee/Home/en">@Faculty of Electronics Engineering Menofia University</a>
 - ✍️ Technical Blogger at <a href="https://hashnode.com/@meska54" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode" /></a>
 - 🏃‍♂️ Passionate about Back-End Engineering and Software Architecture
+- 💬 Ask me about Node, React or anything related to JS :D 
+- 🌱 I’m currently learning Cloud Development using Node
+- 🔭 I'm Working on multi-vendor E-commerce application.
  
 
 <br/>
