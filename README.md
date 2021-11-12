@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about Node, React or anything related to JS :D 
 - 🌱 I’m currently learning Cloud Development using Node
 - 🔭 I'm Working on multi-vendor E-commerce application.
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/yousef-meska/">Linked in</a> || <a href="https://twitter.com/meska54">Twitter </a>
+- other profiles: <a href="https://app.pluralsight.com/profile/yousef-meska">Pluralsight</a> || <a href="https://www.datacamp.com/profile/yousefmeska">Datacamp</a>
  
 
 <br/>
