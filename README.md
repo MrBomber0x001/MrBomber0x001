@@ -81,4 +81,11 @@ Here are some ideas to get you started:
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=mrbomber0x001&&theme=react&&hide_border=true"
   />
+ 
+  <br />
+  <br />
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbomber0x001&show_icons=true&theme=react&&hide_border=true&langs_count=8&layout=compact" />
+
+
 </div>
