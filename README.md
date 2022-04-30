@@ -1,5 +1,6 @@
 ### Hola 👋
-I'm Yousef, A Software Developer obsessed with Javascript, highly focused on the performance of web applications By writing clean and secured code.
+I'm Yousef, A Software Developer obsessed with Javascript, highly focused on the performance of web applications.
+My main interest is building scalable RESTful api services following best practices.
 <!--
 **MrBomber0x001/MrBomber0x001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
