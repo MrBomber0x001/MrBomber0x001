@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Cloud Development | Distributed Systems
 - 🔭 I'm Working on multi-vendor E-commerce application.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/yousef-meska/">Linked in</a> || <a href="https://twitter.com/meska54">Twitter </a>
-- Other profiles: <a href="https://app.pluralsight.com/profile/yousef-meska">Pluralsight</a> || <a href="https://www.datacamp.com/profile/yousefmeska">Datacamp</a>
+- Other profiles: <a href="https://leetcode.com/yousef_meska/">Leetcode</a> || <a href="https://app.pluralsight.com/profile/yousef-meska">Pluralsight</a> || <a href="https://www.datacamp.com/profile/yousefmeska">Datacamp</a>
 - ⚡ Fav quote: 
 > Everything comes down to Practice.
  
