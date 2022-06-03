@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ✍️ Technical Blogger at <a href="https://hashnode.com/@meska54" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode" /></a>
 - 🏃‍♂️ Passionate about Back-End Engineering and Software Architecture
 - 💬 Ask me about Node, React or anything related to JS :D 
-- 🌱 I’m currently learning Cloud Development | Distributed Systems
+- 🌱 I’m currently learning **Go** | **Distributed Systems**
 - 🔭 I'm Working on multi-vendor E-commerce application.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/yousef-meska/">Linked in</a> || <a href="https://twitter.com/meska54">Twitter </a>
 - Other profiles: <a href="https://leetcode.com/yousef_meska/">Leetcode</a> || <a href="https://app.pluralsight.com/profile/yousef-meska">Pluralsight</a> || <a href="https://www.datacamp.com/profile/yousefmeska">Datacamp</a>
