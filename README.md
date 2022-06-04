@@ -55,11 +55,9 @@ Here are some ideas to get you started:
  <br/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60px"/>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60xp"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60xp"/>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60px"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" width="60px"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -70,6 +68,14 @@ Here are some ideas to get you started:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="60px"/>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" width="60px" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width="60px"/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60ox"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg" width="60px"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain-wordmark.svg" width="60px"/>
 
 
 
