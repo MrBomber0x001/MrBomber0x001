@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 - ⚡ Fav quote: 
 > Everything comes down to Practice.
  
+ ### My Articles
+ Check out My Recent Articles:
 
 <br/>
 <div align="center">
