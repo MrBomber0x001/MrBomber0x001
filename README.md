@@ -79,22 +79,8 @@ Here are some ideas to get you started:
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain-wordmark.svg" width="60px"/>
 
-
-
-  <br />
-  <br />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mrbomber0x001&show_icons=true&theme=react&&hide_border=true"
-  />
-  <br />
-  <br />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mrbomber0x001&&theme=react&&hide_border=true"
-  />
- 
-  <br />
-  <br />
- 
+<hr>
+<br> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbomber0x001&show_icons=true&theme=react&&hide_border=true&langs_count=8&layout=compact" />
 
 
