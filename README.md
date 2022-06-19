@@ -27,6 +27,7 @@ Here are some ideas to get you started:
  
  ### My Articles
  Check out My Recent Articles:
+ - <a href="https://meska54.hashnode.dev/trigger-management-and-optimization-part-1">Trigger Management in T-SQL</a>
 
 <br/>
 <div align="center">
