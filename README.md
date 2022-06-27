@@ -16,7 +16,7 @@ My main interest is building scalable RESTful api services following best practi
  ### My Articles
  Check out My Recent Articles:
  - <a href="https://meska54.hashnode.dev/trigger-management-and-optimization-part-1">Trigger Management in T-SQL</a>
-
+ - <a href="https://meska54.hashnode.dev/how-to-handle-t-sql-errors-efficiently">How to Handle T-SQL Errors </a>
 <br/>
 <div align="center">
   <img
