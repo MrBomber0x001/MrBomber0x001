@@ -5,7 +5,7 @@ You can know check: <a href="http://yousefmeska.tech/aboutme/">yousefmeska.tech<
 :star: Here's my <a href="https://drive.google.com/file/d/1BJwwhnb7ewnmcInTG9Vgg1FjHX7vDHhe/view?usp=sharing">resume</a>
 
 - 🎓 Computer Engineering @ <a href="http://www.menofia.edu.eg/fee/Home/en">Faculty of Electronics Engineering</a>
-- ✍️ Technical Blogger at <a href="https://hashnode.com/@meska54" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode" /></a>
+- ✍️ Technical Blogger @ <a href="https://hashnode.com/@meska54" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode" /></a>
 - 🏃‍♂️ Passionate about Back-End Engineering and Software Architecture
 - 💬 Ask me about Node, React or anything related to JS :D 
 - 🌱 I’m currently learning **Go** | **Distributed Systems**
