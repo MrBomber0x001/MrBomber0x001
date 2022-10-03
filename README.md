@@ -1,6 +1,7 @@
 ### Hola 👋
 I'm Yousef, A Software Engineer obsessed with Javascript , highly focused on the performance of web applications. <br>
-My main interest is building scalable backend solutions following best practices and putting security on mind.<br>
+My main interest is building scalable backend solutions following best practices and putting security on mind.
+With +2 experience building resilient products on top of NodeJs and Typescript (PERN, MERN) stacks. <br>
 You can know check: <a href="http://yousefmeska.tech/aboutme/">yousefmeska.tech</a> for more info. <br>
 :star: Here's my <a href="https://drive.google.com/file/d/1BJwwhnb7ewnmcInTG9Vgg1FjHX7vDHhe/view?usp=sharing">resume</a>
 
@@ -8,7 +9,7 @@ You can know check: <a href="http://yousefmeska.tech/aboutme/">yousefmeska.tech<
 - ✍️ Technical Blogger @ <a href="https://hashnode.com/@meska54" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode" /></a>
 - 🏃‍♂️ Passionate about Back-End Engineering and Software Architecture
 - 💬 Ask me about Node, React or anything related to JS :D 
-- 🌱 I’m currently learning **Go** | **Distributed Systems**
+- 🌱 I’m currently learning **Go** | **Distributed Systems** | ELK stack
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/yousef-meska/">Linked in</a> || <a href="https://twitter.com/meska54">Twitter </a>
 - Other profiles: <a href="https://leetcode.com/yousef_meska/">Leetcode</a> || <a href="https://app.pluralsight.com/profile/yousef-meska">Pluralsight</a> || <a href="https://www.datacamp.com/profile/yousefmeska">Datacamp</a>
 - ⚡ Fav quote: 
