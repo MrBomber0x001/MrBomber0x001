@@ -19,6 +19,7 @@ You can know check: <a href="http://yousefmeska.tech/aboutme/">yousefmeska.tech<
  Check out My Recent Articles:
  - <a href="https://meska54.hashnode.dev/trigger-management-and-optimization-part-1">Trigger Management in T-SQL</a>
  - <a href="https://meska54.hashnode.dev/how-to-handle-t-sql-errors-efficiently">How to Handle T-SQL Errors </a>
+ - <a href="https://meska54.hashnode.dev/transactions-concurrency-control-theory-and-practice">Handling Transaction & Concurrency control</a>
 <br/>
 <div align="center">
   <img
