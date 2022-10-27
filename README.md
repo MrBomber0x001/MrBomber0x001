@@ -1,8 +1,12 @@
 ### Hola 👋
-I'm Yousef, A Software Engineer obsessed with Javascript , highly focused on the performance of web applications. <br>
-My main interest is building scalable backend solutions following best practices and putting security on mind.
-With +2 experience building resilient products on top of NodeJs and Typescript (PERN, MERN) stacks. <br>
-You can know check: <a href="http://yousefmeska.tech/aboutme/">yousefmeska.tech</a> for more info. <br>
+
+👋 I'm Yousef, 
+A Software Engineer obsessed with Javascript and highly focused on the performance of web applications. <br>
+My main interest is building scalable server side solutions following best practices and putting security in mind. 
+
+I've been in the web industry since 2016, With +3 experience professionally building resilient products on top of NodeJs and Typescript (PERN, MERN) stacks.<br>
+You can check my <a href="yousefmeska.tech">blog</a> for more info.
+
 :star: Here's my <a href="https://drive.google.com/file/d/1BJwwhnb7ewnmcInTG9Vgg1FjHX7vDHhe/view?usp=sharing">resume</a>
 
 - 🎓 Computer Engineering @ <a href="http://www.menofia.edu.eg/fee/Home/en">Faculty of Electronics Engineering</a>
