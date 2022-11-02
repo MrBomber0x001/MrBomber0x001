@@ -21,7 +21,11 @@ You can check my <a href="yousefmeska.tech">blog</a> for more info.
  
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - 🔥 [Transactions &amp; Concurrency control - Theory and Practice!](https://meska54.hashnode.dev/transactions-concurrency-control-theory-and-practice)
+ - 💯 [Triggers In-Depth  &lpar;Part 2&rpar;](https://meska54.hashnode.dev/triggers-in-depth-part-2)
+ - 💫 [How to handle T-SQL Errors Efficiently](https://meska54.hashnode.dev/how-to-handle-t-sql-errors-efficiently)
+ - 🌮 [How to Properly Optimize Triggers in T-SQL &lpar;part 3&rpar;](https://meska54.hashnode.dev/how-to-properly-optimize-triggers-in-t-sql-part-3)
+ - 🔥 [Trigger Management &amp; Optimization - Part 1](https://meska54.hashnode.dev/trigger-management-and-optimization-part-1)<!-- BLOGPOSTS:END -->
 
 <br/>
 <div align="center">
