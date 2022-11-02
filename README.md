@@ -19,11 +19,11 @@ You can check my <a href="yousefmeska.tech">blog</a> for more info.
 - ⚡ Fav quote: 
 > Everything comes down to Practice.
  
- ### My Articles
- Check out My Recent Articles:
- - <a href="https://meska54.hashnode.dev/trigger-management-and-optimization-part-1">Trigger Management in T-SQL</a>
- - <a href="https://meska54.hashnode.dev/how-to-handle-t-sql-errors-efficiently">How to Handle T-SQL Errors </a>
- - <a href="https://meska54.hashnode.dev/transactions-concurrency-control-theory-and-practice">Handling Transaction & Concurrency control</a>
+#### :books: Recent Blog Posts
+<!-- BLOGPOSTS:START -->
+
+<!-- BLOGPOSTS:END -->
+
 <br/>
 <div align="center">
   <img
