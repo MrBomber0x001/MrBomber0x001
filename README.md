@@ -21,7 +21,6 @@ You can check my <a href="yousefmeska.tech">blog</a> for more info.
  
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
-
 <!-- BLOGPOSTS:END -->
 
 <br/>
