@@ -5,7 +5,7 @@ A Software Engineer obsessed with Javascript and highly focused on the performan
 My main interest is building scalable server side solutions following best practices and putting security in mind. 
 
 I've been in the web industry since 2016, With +3 experience professionally building resilient products on top of NodeJs and Typescript (PERN, MERN) stacks.<br>
-You can check my <a href="http://www.yousefmeska.tech">blog</a> for more info.
+You can check my <a href="http://yousefmeska.tech/">blog</a> for more info.
 
 :star: Here's my <a href="https://drive.google.com/file/d/1BJwwhnb7ewnmcInTG9Vgg1FjHX7vDHhe/view?usp=sharing">resume</a>
 
