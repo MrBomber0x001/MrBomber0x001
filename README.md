@@ -19,7 +19,8 @@ You can check my <a href="http://yousefmeska.tech/">blog</a> for more info.
 - ⚡ Fav quote: 
 > Everything comes down to Practice.
  
-#### :books: Recent Blog Posts
+:books: Recent Blog Posts
+--------
 <!-- BLOGPOSTS:START -->
  - 🔥 [Transactions &amp; Concurrency control - Theory and Practice!](https://meska54.hashnode.dev/transactions-concurrency-control-theory-and-practice)
  - 💯 [Triggers In-Depth  &lpar;Part 2&rpar;](https://meska54.hashnode.dev/triggers-in-depth-part-2)
@@ -27,7 +28,8 @@ You can check my <a href="http://yousefmeska.tech/">blog</a> for more info.
  - 🌮 [How to Properly Optimize Triggers in T-SQL &lpar;part 3&rpar;](https://meska54.hashnode.dev/how-to-properly-optimize-triggers-in-t-sql-part-3)
  - 🔥 [Trigger Management &amp; Optimization - Part 1](https://meska54.hashnode.dev/trigger-management-and-optimization-part-1)<!-- BLOGPOSTS:END -->
 
-<br/>
+--------
+
 <div align="center">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"
@@ -78,7 +80,9 @@ You can check my <a href="http://yousefmeska.tech/">blog</a> for more info.
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain-wordmark.svg" width="60px"/>
 
-<hr>
+
+--------
+
 <br> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbomber0x001&show_icons=true&theme=react&&hide_border=true&langs_count=8&layout=compact" />
 
