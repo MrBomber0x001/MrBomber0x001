@@ -9,7 +9,7 @@ You can check my <a href="http://yousefmeska.tech/">blog</a> for more info.
 
 :star: Here's my <a href="https://drive.google.com/file/d/1BJwwhnb7ewnmcInTG9Vgg1FjHX7vDHhe/view?usp=sharing">resume</a>
 
-- 🎓 Computer Engineering @ <a href="http://www.menofia.edu.eg/fee/Home/en">Faculty of Electronics Engineering</a>
+<!-- - 🎓 Computer Engineering @ <a href="http://www.menofia.edu.eg/fee/Home/en">Faculty of Electronics Engineering</a>
 - ✍️ Technical Blogger @ <a href="https://hashnode.com/@meska54" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode" /></a>
 - 🏃‍♂️ Passionate about Back-End Engineering and Software Architecture
 - 💬 Ask me about Node, React or anything related to JS :D
@@ -18,14 +18,13 @@ You can check my <a href="http://yousefmeska.tech/">blog</a> for more info.
 - Other profiles: <a href="https://leetcode.com/yousef_meska/">Leetcode</a> || <a href="https://app.pluralsight.com/profile/yousef-meska">Pluralsight</a> || <a href="https://www.datacamp.com/profile/yousefmeska">Datacamp</a>
 - ⚡ Fav quote:
 
-> Everything comes down to Practice.
+> Everything comes down to Practice. -->
 
 <h3 align="left">Connect with me:</h3>
 
 | Media  | Summary |
 | ------------- | ------------- |
 | [Medium](https://meska54.medium.com/)  | My Software Engineering blog where I write mainly Advanced Backend articles   |
-<!-- | [Mentoring](https://calendly.com/youssef-rafaat95)  |I offer software engineering career mentoring and CV & portoflio feedback | -->
 | [LinkedIn](https://www.linkedin.com/in/yousef-meska/)  | I share software engineering tips and best practices|
 | [Twitter](https://twitter.com/meska54)  |  I share my latest tech journey, articles, and much more!  |
 
@@ -36,13 +35,6 @@ You can check my <a href="http://yousefmeska.tech/">blog</a> for more info.
 | [Database Notes](https://github.com/MrBomber0x001/db-notes) |A centralized repo about Advanced Database Notes Gathered From Datacamp, CMU, and much more!|
 | [Docker Internals](https://github.com/MrBomber0x001/Docker-internals) | A central place for containerization & Docker internals |
 |[Instabug internship](https://github.com/MrBomber0x001/instabug-intern-2022)  |Solution to the 2-phase internship interview [Backend]|
-| [Data-Science-End-to-End-Projects](https://github.com/youssefHosni/Data-Science-End-to-End-Projects) | End to end data science projects for various data science case studies |
-| [Practical Machine Learning Tips](https://github.com/youssefHosni/Practical-Machine-Learning-Tips) | The practical machine learning tips I post on my social media account and the code used in the practical tips article |
-| [Stable Diffusion](https://github.com/youssefHosni/Stable-Diffusion)  |Stable diffusion code both using hugging face and implemented from scratch |
-| [Practical Machine Learning Guide](https://github.com/youssefHosni/Machine-Learning-Practical-Guide) | Practicle guide for different machine learning and deep learning concepts and algorithms |
-| [Practical Computer Vision In Python](https://github.com/youssefHosni/Practical-Computer-Vision-In-Python)| Computer vision projects that covers most of the computer vision tasks such as object detection, tracking and image classification and others  |
-| [Advanced Python for Data Scientists](https://github.com/youssefHosni/Advanced-Python-for-Data-Scientists#advanced-python-for-data-scientists)| Advanced Python tutoirals for data scientists  |
-|[Time Series In Python](https://github.com/youssefHosni/Time-Series-With-Python)| Time series in python tutorials that covers most of the tasks in a time series projects |
 
 :books: Recent Blog Posts
 --------
