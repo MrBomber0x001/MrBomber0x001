@@ -1,8 +1,8 @@
-### Hola 👋
+<h1 align="left">Hola 👋</h1>
 
 👋 I'm Yousef,
 A Software Engineer obsessed with Javascript and highly focused on the performance of web applications. <br>
-My main interest is building scalable server side solutions following best practices and putting security in mind.
+My main interest is building scalable server-side solutions following best practices and putting security in mind.
 
 💻 I've been in the web industry since 2016, With +3 experience professionally building resilient products on top of NodeJs and Typescript (PERN, MERN) stacks.<br>
 You can check my <a href="http://yousefmeska.tech/">blog</a> for more info.
@@ -27,6 +27,7 @@ You can check my <a href="http://yousefmeska.tech/">blog</a> for more info.
 | [Medium](https://meska54.medium.com/)  | My Software Engineering blog where I write mainly Advanced Backend articles   |
 | [LinkedIn](https://www.linkedin.com/in/yousef-meska/)  | I share software engineering tips and best practices|
 | [Twitter](https://twitter.com/meska54)  |  I share my latest tech journey, articles, and much more!  |
+| [outlook](https://outlook.com) | my personal email |
 
 <h3 align="left"> Open source & Projects:</h3>
 
@@ -35,6 +36,9 @@ You can check my <a href="http://yousefmeska.tech/">blog</a> for more info.
 | [Database Notes](https://github.com/MrBomber0x001/db-notes) |A centralized repo about Advanced Database Notes Gathered From Datacamp, CMU, and much more!|
 | [Docker Internals](https://github.com/MrBomber0x001/Docker-internals) | A central place for containerization & Docker internals |
 |[Instabug internship](https://github.com/MrBomber0x001/instabug-intern-2022)  |Solution to the 2-phase internship interview [Backend]|
+| [Advanced NodeJs](https://github.com/MrBomber0x001/node-advanced-concepts) | Central repo for whom want to dig into NodeJs Development|
+| [Udacity-Storefront API](https://github.com/MrBomber0x001/Udacity-Storefront-api) |Well-documented Backend API for E-commerce|
+| [BookReads](https://github.com/MrBomber0x001/BookReads) |a complete platform solution [social network and marketplace] for bookworms and book stores|
 
 :books: Recent Blog Posts
 --------
