@@ -46,8 +46,24 @@ Articles
 <li style="    padding: 2;    margin: 5;    display: block;    position: relative;    width: 100%;    height: fit-content;">
  <div class="link">
  <a href="https://www.yousefmeska.tech/">
-  Docker Internals</a>.
-  <i>GitHub Blog</i>, 2022
+  Docker's Internals I: Namespaces</a>.
+  <i>Medium Blog</i>, 2022
+ </div>
+</li>
+
+<li style="    padding: 2;    margin: 5;    display: block;    position: relative;    width: 100%;    height: fit-content;">
+ <div class="link">
+ <a href="https://www.yousefmeska.tech/">
+  Docker's Internals II: Cgroups</a>.
+  <i>Medium Blog</i>, 2022
+ </div>
+</li>
+
+<li style="    padding: 2;    margin: 5;    display: block;    position: relative;    width: 100%;    height: fit-content;">
+ <div class="link">
+ <a href="https://www.yousefmeska.tech/">
+  Docker's Internals III: Combining Linux kernel Primitives to build a container without Docker</a>.
+  <i>Medium Blog</i>, 2022
  </div>
 </li>
 
@@ -55,7 +71,7 @@ Articles
  <div class="link">
  <a href="https://www.yousefmeska.tech/">
   Handling Errors Properly in SQL Server - A complete guide</a>.
-  <i>Medium Blog</i>, 2022
+  <i>Hashnode Blog</i>, 2022
  </div>
 </li>
 
@@ -71,7 +87,7 @@ Articles
  <div class="link">
  <a href="https://www.yousefmeska.tech/">
   Definitive Guide to Trigger Optimization in SQL server</a>.
-  <i>GitHub Blog</i>, 2022
+  <i>Hashnode Blog</i>, 2022
  </div>
 </li>
 
