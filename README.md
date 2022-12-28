@@ -39,22 +39,31 @@ You can check my <a href="http://yousefmeska.tech/">blog</a> for more info.
 | [Udacity-Storefront API](https://github.com/MrBomber0x001/Udacity-Storefront-api) |Well-documented Backend API for E-commerce|
 | [BookReads](https://github.com/MrBomber0x001/BookReads) |a complete platform solution [social network and marketplace] for bookworms and book stores|
 
-:books: Recent Blog Posts
+Articles
 --------
-<!-- BLOGPOSTS:START -->
-- 🔥 [Transactions &amp; Concurrency control - Theory and Practice!](https://meska54.hashnode.dev/transactions-concurrency-control-theory-and-practice)
-- 💯 [Triggers In-Depth  &lpar;Part 2&rpar;](https://meska54.hashnode.dev/triggers-in-depth-part-2)
-- 💫 [How to handle T-SQL Errors Efficiently](https://meska54.hashnode.dev/how-to-handle-t-sql-errors-efficiently)
-- 🌮 [How to Properly Optimize Triggers in T-SQL &lpar;part 3&rpar;](https://meska54.hashnode.dev/how-to-properly-optimize-triggers-in-t-sql-part-3)
-- 🔥 [Trigger Management &amp; Optimization - Part 1](https://meska54.hashnode.dev/trigger-management-and-optimization-part-1)<!-- BLOGPOSTS:END -->
 
---------
+<ul class="list" style="list-style-type: none;    margin: 5;    padding: 5;    display: grid;">
+<li style="    padding: 2;    margin: 5;    display: block;    position: relative;    width: 100%;    height: fit-content;">
+ <div class="link">
+ <a href="https://github.blog/2022-10-13-the-story-of-scalar/">
+  The Story of Scalar</a>.
+  <i>GitHub Blog</i>, 2022
+ </div>
+</li>
+
 <!-- 
 <div align="center">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"
     width="60px"
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  - 🔥 [Transactions &amp; Concurrency control - Theory and Practice!](https://meska54.hashnode.dev/transactions-concurrency-control-theory-and-practice)
+- 💯 [Triggers In-Depth  &lpar;Part 2&rpar;](https://meska54.hashnode.dev/triggers-in-depth-part-2)
+- 💫 [How to handle T-SQL Errors Efficiently](https://meska54.hashnode.dev/how-to-handle-t-sql-errors-efficiently)
+- 🌮 [How to Properly Optimize Triggers in T-SQL &lpar;part 3&rpar;](https://meska54.hashnode.dev/how-to-properly-optimize-triggers-in-t-sql-part-3)
+- 🔥 [Trigger Management &amp; Optimization - Part 1](https://meska54.hashnode.dev/trigger-management-and-optimization-part-1)
+
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"
     width="60px"
@@ -106,6 +115,6 @@ You can check my <a href="http://yousefmeska.tech/">blog</a> for more info.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbomber0x001&show_icons=true&theme=react&&hide_border=true&langs_count=8&layout=compact" />
 
 </div> -->
-
+<!-- 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p> -->
