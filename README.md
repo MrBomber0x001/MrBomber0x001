@@ -24,18 +24,18 @@ You can check my <a href="http://yousefmeska.tech/">blog</a> for more info.
 
 | Media  | Summary |
 | ------------- | ------------- |
-| [Medium](https://medium.com/@youssefraafat57)  | My data science blog where I write data science articles   |
-| [Mentoring](https://calendly.com/youssef-rafaat95)  |I offer data science career mentoring and CV & poroflio feedback |
-| [LinkedIn](https://www.linkedin.com/in/youssef-hosni-b2960b135/)  | I share data science interview questions and practical machine learning tips|
-| [Twitter](https://twitter.com/Youssef70125494)  |  I share data science interview questions and practical machine learning tips  |
+| [Medium](https://meska54.medium.com/)  | My Software Engineering blog where I write mainly Advanced Backend articles   |
+<!-- | [Mentoring](https://calendly.com/youssef-rafaat95)  |I offer software engineering career mentoring and CV & portoflio feedback | -->
+| [LinkedIn](https://www.linkedin.com/in/yousef-meska/)  | I share software engineering tips and best practices|
+| [Twitter](https://twitter.com/meska54)  |  I share my latest tech journey, articles, and much more!  |
 
-<h3 align="left"> Open Soruce & Projects:</h3>
+<h3 align="left"> Open source & Projects:</h3>
 
 | Topic  | Summary |
 | ------------- | ------------- |
-| [Data Science Portoflio](https://github.com/youssefHosni/Data-Science-Portofolio) |My data science skill based portoflio |
-| [Data Science Interview Questions & Answers](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers) | Data science interview questions & answers covers most of the expected questions |
-|[Data Science Interview Preperation Resources](https://github.com/youssefHosni/Data-Science-Interview-Preperation)  |Resoruce to help you to prepare for your comming data science interviews|
+| [Database Notes](https://github.com/MrBomber0x001/db-notes) |A centralized repo about Advanced Database Notes Gathered From Datacamp, CMU, and much more!|
+| [Docker Internals](https://github.com/MrBomber0x001/Docker-internals) | A central place for containerization & Docker internals |
+|[Instabug internship](https://github.com/MrBomber0x001/instabug-intern-2022)  |Solution to the 2-phase internship interview [Backend]|
 | [Data-Science-End-to-End-Projects](https://github.com/youssefHosni/Data-Science-End-to-End-Projects) | End to end data science projects for various data science case studies |
 | [Practical Machine Learning Tips](https://github.com/youssefHosni/Practical-Machine-Learning-Tips) | The practical machine learning tips I post on my social media account and the code used in the practical tips article |
 | [Stable Diffusion](https://github.com/youssefHosni/Stable-Diffusion)  |Stable diffusion code both using hugging face and implemented from scratch |
@@ -54,7 +54,7 @@ You can check my <a href="http://yousefmeska.tech/">blog</a> for more info.
 - 🔥 [Trigger Management &amp; Optimization - Part 1](https://meska54.hashnode.dev/trigger-management-and-optimization-part-1)<!-- BLOGPOSTS:END -->
 
 --------
-
+<!-- 
 <div align="center">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"
@@ -110,4 +110,4 @@ You can check my <a href="http://yousefmeska.tech/">blog</a> for more info.
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbomber0x001&show_icons=true&theme=react&&hide_border=true&langs_count=8&layout=compact" />
 
-</div>
+</div> -->
