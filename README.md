@@ -39,11 +39,11 @@ You can check his <a href="http://yousefmeska.tech/">blog</a> for more info.
 | [Udacity-Storefront API](https://github.com/MrBomber0x001/Udacity-Storefront-api) |Well-documented Backend API for E-commerce|
 | [BookReads](https://github.com/MrBomber0x001/BookReads) |a complete platform solution [social network and marketplace] for bookworms and book stores|
 
-Articles
---------
+<!-- Articles -->
+<!-- -------- -->
 
 <ul class="list" style="list-style-type: none;    margin: 5;    padding: 5;    display: grid;">
-<li style="    padding: 2;    margin: 5;    display: block;    position: relative;    width: 100%;    height: fit-content;">
+<!-- <li style="    padding: 2;    margin: 5;    display: block;    position: relative;    width: 100%;    height: fit-content;">
  <div class="link">
  <a href="https://www.yousefmeska.tech/">
   Docker's Internals I: Namespaces</a>.
@@ -89,7 +89,7 @@ Articles
   Definitive Guide to Trigger Optimization in SQL server</a>.
   <i>Hashnode Blog</i>, 2022
  </div>
-</li>
+</li> -->
 
 </ul>
 <!-- 
