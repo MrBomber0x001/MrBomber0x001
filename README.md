@@ -26,7 +26,7 @@ You can check his <a href="http://yousefmeska.tech/">blog</a> for more info.
 | [Medium](https://meska54.medium.com/)  | My Software Engineering blog where I write mainly Advanced Backend articles   |
 | [LinkedIn](https://www.linkedin.com/in/yousef-meska/)  | I share software engineering tips and best practices|
 | [Twitter](https://twitter.com/meska54)  |  I share my latest tech journey, articles, and much more!  |
-| [outlook](yousefmeska54@outlook.com) | my personal email |
+| <a href="mailto:yousefmeska54@outlook.com">outlook</a> | my personal email |
 
 <h3 align="left"> Open source & Projects:</h3>
 
