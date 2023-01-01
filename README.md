@@ -39,57 +39,58 @@ You can check his <a href="http://yousefmeska.tech/">blog</a> for more info.
 | [Udacity-Storefront API](https://github.com/MrBomber0x001/Udacity-Storefront-api) |Well-documented Backend API for E-commerce|
 | [BookReads](https://github.com/MrBomber0x001/BookReads) |a complete platform solution [social network and marketplace] for bookworms and book stores|
 
-<!-- Articles -->
-<!-- -------- -->
+Articles
+--------
 
 <ul class="list" style="list-style-type: none;    margin: 5;    padding: 5;    display: grid;">
-<!-- <li style="    padding: 2;    margin: 5;    display: block;    position: relative;    width: 100%;    height: fit-content;">
+<!--<li style="    padding: 2;    margin: 5;    display: block;    position: relative;    width: 100%;    height: fit-content;">
  <div class="link">
  <a href="https://www.yousefmeska.tech/">
   Docker's Internals I: Namespaces</a>.
   <i>Medium Blog</i>, 2022
  </div>
-</li>
+</li> -->
 
-<li style="    padding: 2;    margin: 5;    display: block;    position: relative;    width: 100%;    height: fit-content;">
+<!--<li style="    padding: 2;    margin: 5;    display: block;    position: relative;    width: 100%;    height: fit-content;">
  <div class="link">
  <a href="https://www.yousefmeska.tech/">
   Docker's Internals II: Cgroups</a>.
   <i>Medium Blog</i>, 2022
  </div>
-</li>
+</li>-->
 
-<li style="    padding: 2;    margin: 5;    display: block;    position: relative;    width: 100%;    height: fit-content;">
+<!--<li style="    padding: 2;    margin: 5;    display: block;    position: relative;    width: 100%;    height: fit-content;">
  <div class="link">
  <a href="https://www.yousefmeska.tech/">
   Docker's Internals III: Combining Linux kernel Primitives to build a container without Docker</a>.
   <i>Medium Blog</i>, 2022
  </div>
-</li>
-
-<li style="    padding: 2;    margin: 5;    display: block;    position: relative;    width: 100%;    height: fit-content;">
- <div class="link">
- <a href="https://www.yousefmeska.tech/">
-  Handling Errors Properly in SQL Server - A complete guide</a>.
-  <i>Hashnode Blog</i>, 2022
- </div>
-</li>
-
-<li style="    padding: 2;    margin: 5;    display: block;    position: relative;    width: 100%;    height: fit-content;">
- <div class="link">
- <a href="https://www.yousefmeska.tech/">
-  Transaction and Concurrency control - Theory and Practice </a>.
-  <i>Hashnode Blog</i>, 2022
- </div>
-</li>
-
-<li style="    padding: 2;    margin: 5;    display: block;    position: relative;    width: 100%;    height: fit-content;">
- <div class="link">
- <a href="https://www.yousefmeska.tech/">
-  Definitive Guide to Trigger Optimization in SQL server</a>.
-  <i>Hashnode Blog</i>, 2022
- </div>
 </li> -->
+
+<li style="    padding: 2;    margin: 5;    display: block;    position: relative;    width: 100%;    height: fit-content;">
+ <div class="link">
+ <a href="https://meska54.hashnode.dev/transactions-concurrency-control-theory-and-practice/">
+  Transaction and Concurrency control - Theory and Practice
+  </a>
+  <i>Hashnode Blog</i>, 2022
+ </div>
+</li>
+
+<li style="    padding: 2;    margin: 5;    display: block;    position: relative;    width: 100%;    height: fit-content;">
+ <div class="link">
+ <a href="https://meska54.hashnode.dev/how-to-handle-t-sql-errors-efficiently/">
+  Handling SQL Errors Efficiently - A complete guide </a>.
+  <i>Hashnode Blog</i>, 2022
+ </div>
+</li>
+
+<li style="    padding: 2;    margin: 5;    display: block;    position: relative;    width: 100%;    height: fit-content;">
+ <div class="link">
+ <a href="https://meska54.hashnode.dev/trigger-management-and-optimization-part-1/">
+  Definitive Guide to Triggers in SQL server</a>.
+  <i>Hashnode Blog</i>, 2022
+ </div>
+</li>
 
 </ul>
 <!-- 
