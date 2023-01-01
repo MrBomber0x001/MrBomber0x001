@@ -32,7 +32,7 @@ You can check his <a href="http://yousefmeska.tech/">blog</a> for more info.
 
 | Topic  | Summary |
 | ------------- | ------------- |
-| [Database Notes](https://github.com/MrBomber0x001/db-notes) |A centralized repo about Advanced Database Notes Gathered From Datacamp, CMU, and much more!|
+| [Database Notes](https://github.com/MrBomber0x001/db-notes) |A centralized repo about Advanced Database Notes Gathered From Datacamp, CMU, leetcode, and much more!|
 | [Docker Internals](https://github.com/MrBomber0x001/Docker-internals) | A central place for containerization & Docker internals |
 |[Instabug internship](https://github.com/MrBomber0x001/instabug-intern-2022)  |Solution to the 2-phase internship interview [Backend]|
 | [Advanced NodeJs](https://github.com/MrBomber0x001/node-advanced-concepts) | Central repo for whom want to dig into NodeJs Development|
