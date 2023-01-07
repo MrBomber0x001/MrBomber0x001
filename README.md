@@ -33,10 +33,10 @@ You can check his <a href="http://yousefmeska.tech/">blog</a> for more info.
 | Topic  | Summary |
 | ------------- | ------------- |
 | [Database Notes](https://github.com/MrBomber0x001/db-notes) |A centralized repo about Advanced Database Notes Gathered From Datacamp, CMU, leetcode, and much more!|
-| [Docker Internals](https://github.com/MrBomber0x001/Docker-internals) | A central place for containerization & Docker internals |
-|[Instabug internship](https://github.com/MrBomber0x001/instabug-intern-2022)  |Solution to the 2-phase internship interview [Backend]|
-| [Advanced NodeJs](https://github.com/MrBomber0x001/node-advanced-concepts) | Central repo for whom want to dig into NodeJs Development|
-| [Udacity-Storefront API](https://github.com/MrBomber0x001/Udacity-Storefront-api) |Well-documented Backend API for E-commerce|
+| [Docker Internals](https://github.com/MrBomber0x001/Docker-internals) | Practical walkthrough into Docker Internals & Containerization beside resources to dig deep!|
+|[Instabug internship](https://github.com/MrBomber0x001/instabug-intern-2022)  |Solution to Instabug 2-phase internship interview [Backend]|
+| [Advanced NodeJs](https://github.com/MrBomber0x001/node-advanced-concepts) | Central repo for whom want to dig into Advanced NodeJs Development|
+| [Udacity-Storefront API](https://github.com/MrBomber0x001/Udacity-Storefront-api) | Well-documented Backend API for E-commerce done for Udacity Advanced Full Stack Nanodegree|
 | [BookReads](https://github.com/MrBomber0x001/BookReads) |a complete platform solution [social network and marketplace] for bookworms and book stores|
 
 Articles
