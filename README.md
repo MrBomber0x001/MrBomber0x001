@@ -6,7 +6,7 @@ his main interest is building scalable server-side solutions following best prac
 💻 He's been in the web industry since 2016, With +3 experience professionally building resilient products on top of NodeJs and Go<br>
 You can check his <a href="http://yousefmeska.tech/">blog</a> for more info.
 
-:star: Here's his <a href="https://drive.google.com/file/d/1BJwwhnb7ewnmcInTG9Vgg1FjHX7vDHhe/view?usp=sharing">resume</a>
+⚡ Here's his <a href="https://drive.google.com/file/d/1BJwwhnb7ewnmcInTG9Vgg1FjHX7vDHhe/view?usp=sharing">resume</a>
 
 <!-- - 🎓 Computer Engineering @ <a href="http://www.menofia.edu.eg/fee/Home/en">Faculty of Electronics Engineering</a>
 - ✍️ Technical Blogger @ <a href="https://hashnode.com/@meska54" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode" /></a>
@@ -19,7 +19,18 @@ You can check his <a href="http://yousefmeska.tech/">blog</a> for more info.
 
 > Everything comes down to Practice. -->
 
-<h3 align="left">Connect with me:</h3>
+⚡️ Programming Languages
+------
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,go,cpp,js&perline=15)](https://skillicons.dev)
+
+⚡️ Backend Technologies
+------
+
+[![My Skills](https://skillicons.dev/icons?i=redis,mysql,postgres,mongodb,docker,kubernetes,ts,bash,prisma,nginx,git,graphql,ansible,aws,nestjs,linux,jenkins&perline=10)](https://skillicons.dev)
+
+Connect with me
+------
 
 | Media  | Summary |
 | ------------- | ------------- |
@@ -28,7 +39,8 @@ You can check his <a href="http://yousefmeska.tech/">blog</a> for more info.
 | [Twitter](https://twitter.com/meska54)  |  I share my latest tech journey, articles, and much more!  |
 | <a href="mailto:yousefmeska54@outlook.com">outlook</a> | my personal email |
 
-<h3 align="left"> Open source & Projects:</h3>
+Open source & Projects
+------
 
 | Topic  | Summary |
 | ------------- | ------------- |
@@ -160,15 +172,3 @@ Articles
 <!-- 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p> -->
-
-
-
-⚡️ Programming Languages
-------
-[![My Skills](https://skillicons.dev/icons?i=nodejs,go,cpp,js&perline=15)](https://skillicons.dev)
-
-
-⚡️ Backend Technologies
-------
-[![My Skills](https://skillicons.dev/icons?i=redis,mysql,postgres,mongodb,docker,kubernetes,ts,bash,prisma,nginx,git,graphql,ansible,aws,nestjs,linux,jenkins&perline=10)](https://skillicons.dev)
-<hr>
