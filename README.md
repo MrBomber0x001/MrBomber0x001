@@ -6,7 +6,7 @@ his main interest is building scalable server-side solutions following best prac
 💻 He's been in the web industry since 2016, With +3 experience professionally building resilient products on top of NodeJs and Go<br>
 You can check his <a href="http://yousefmeska.tech/">blog</a> for more info.
 
-⚡ Here's his <a href="https://drive.google.com/file/d/1BJwwhnb7ewnmcInTG9Vgg1FjHX7vDHhe/view?usp=sharing">resume</a>
+⚡ Check his <a href="https://drive.google.com/file/d/1BJwwhnb7ewnmcInTG9Vgg1FjHX7vDHhe/view?usp=sharing">resume</a>
 
 <!-- - 🎓 Computer Engineering @ <a href="http://www.menofia.edu.eg/fee/Home/en">Faculty of Electronics Engineering</a>
 - ✍️ Technical Blogger @ <a href="https://hashnode.com/@meska54" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode" /></a>
