@@ -7,8 +7,6 @@ His main interest is building scalable server-side solutions that follows best p
 
 ⚡ You can check his <a href="http://yousefmeska.tech/">blog</a> for more info.
 
-⚡ Check his <a href="https://drive.google.com/file/d/1BJwwhnb7ewnmcInTG9Vgg1FjHX7vDHhe/view?usp=sharing">resume</a>
-
 <!-- - 🎓 Computer Engineering @ <a href="http://www.menofia.edu.eg/fee/Home/en">Faculty of Electronics Engineering</a>
 - ✍️ Technical Blogger @ <a href="https://hashnode.com/@meska54" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode" /></a>
 - 🏃‍♂️ Passionate about Back-End Engineering and Software Architecture
@@ -38,6 +36,7 @@ Connect with me
 | [Hashnode](https://meska54.hashnode.dev/)  | My Software Engineering blog where I write mainly Advanced Backend articles   |
 | [LinkedIn](https://www.linkedin.com/in/yousef-meska/)  | I share software engineering tips and best practices|
 | [Twitter](https://twitter.com/meska54)  |  I share my latest tech journey, articles, and much more!  |
+| [Resume](https://drive.google.com/file/d/1BJwwhnb7ewnmcInTG9Vgg1FjHX7vDHhe/view?usp=sharing) | my updated resume |
 | <a href="mailto:yousefmeska54@outlook.com">outlook</a> | my personal email |
 
 Open source & Projects
