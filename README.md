@@ -34,6 +34,7 @@ Connect with me
 | Media  | Summary |
 | ------------- | ------------- |
 | [Hashnode](https://meska54.hashnode.dev/)  | My Software Engineering blog where I write mainly Advanced Backend articles   |
+| [Leetcode](https://leetcode.com/yousef_meska/) | My Leetcode profile |
 | [LinkedIn](https://www.linkedin.com/in/yousef-meska/)  | I share software engineering tips and best practices|
 | [Twitter](https://twitter.com/meska54)  |  I share my latest tech journey, articles, and much more!  |
 | [Resume](https://drive.google.com/file/d/1BJwwhnb7ewnmcInTG9Vgg1FjHX7vDHhe/view?usp=sharing) | my updated resume |
