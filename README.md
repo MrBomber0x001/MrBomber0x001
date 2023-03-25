@@ -104,6 +104,14 @@ Articles
   <i>Hashnode Blog</i>, 2022
  </div>
 </li>
+ 
+ <li style="    padding: 2;    margin: 5;    display: block;    position: relative;    width: 100%;    height: fit-content;">
+ <div class="link">
+ <a href="https://meska54.hashnode.dev/concurrency-in-go-a-deeper-look-into-gos-runtime-scheduler/">
+ Concurrency in Go - Deeper look into go's runtime scheduler</a>.
+  <i>Hashnode Blog</i>, 2022
+ </div>
+</li>
 
 </ul>
 <!-- 
