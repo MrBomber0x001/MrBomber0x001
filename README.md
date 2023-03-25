@@ -109,7 +109,7 @@ Articles
  <div class="link">
  <a href="https://meska54.hashnode.dev/concurrency-in-go-a-deeper-look-into-gos-runtime-scheduler/">
  Concurrency in Go - Deeper look into go's runtime scheduler</a>.
-  <i>Hashnode Blog</i>, 2022
+  <i>Hashnode Blog</i>, 2023
  </div>
 </li>
 
