@@ -1,12 +1,12 @@
 <h1 align="left">Hola 👋</h1>
 
-Yousef is a Software Engineer obsessed with Javascript and highly focused on the performance of web applications. <br>
-His main interest is building scalable server-side solutions that follows best practices and putting security in mind.
+I am Yousef, a Software Engineer obsessed with Javascript and Go highly focused on the performance of web applications. <br>
+My main interest is building scalable server-side solutions that follows best practices and clean architecture.
 
-💻 He's been in the web industry since 2016, With +2 experience professionally building resilient products on top of NodeJs and Go<br>
+💻 I've been in the web industry since 2016, With +2 experience professionally building resilient products on top of NodeJs and Go<br>
 
-⚡ You can check his [blog](http://yousefmeska.tech) for more info. <br/>
-⚡ You can also check his [reading list](http://yousefmeska.tech/2023-02-14-books/) to see his reading progress and books recommendations
+⚡ You can check my [blog](http://yousefmeska.tech) for more info. <br/>
+⚡ You can also check my [reading list](http://yousefmeska.tech/2023-02-14-books/) to see my reading progress and books recommendations
 <!-- - 🎓 Computer Engineering @ <a href="http://www.menofia.edu.eg/fee/Home/en">Faculty of Electronics Engineering</a>
 - ✍️ Technical Blogger @ <a href="https://hashnode.com/@meska54" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode" /></a>
 - 🏃‍♂️ Passionate about Back-End Engineering and Software Architecture
