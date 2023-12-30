@@ -26,7 +26,7 @@ My main interest is building scalable server-side solutions that follows best pr
 ⚡️ Backend Technologies
 ------
 
-[![My Skills](https://skillicons.dev/icons?i=redis,mysql,postgres,mongodb,docker,kubernetes,ts,bash,prisma,nginx,git,graphql,ansible,aws,nestjs,linux,jenkins&perline=10)](https://skillicons.dev)
+![sdsd](https://skillicons.dev/icons?i=redis,mysql,postgres,mongodb,docker,kubernetes,ts,bash,prisma,nginx,git,graphql,ansible,aws,nestjs,linux,jenkins&perline=12)
 
 Connect with me
 ------
