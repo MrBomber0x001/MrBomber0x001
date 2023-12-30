@@ -40,7 +40,7 @@ Connect with me
 | [Resume](https://drive.google.com/file/d/1BJwwhnb7ewnmcInTG9Vgg1FjHX7vDHhe/view?usp=sharing) | my updated resume |
 | <a href="mailto:yousefmeska54@outlook.com">outlook</a> | my personal email |
 
-Open source & Projects
+Open Source & Projects
 ------
 
 | Topic  | Summary |
