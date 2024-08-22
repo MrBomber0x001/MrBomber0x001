@@ -3,7 +3,6 @@
 I am Yousef, a Software Engineer obsessed with Javascript and Go highly focused on the performance of web applications. <br>
 My main interest is building scalable server-side solutions that follows best practices and clean architecture.
 
-💻 I've been in the web industry since 2016, With +2 experience professionally building resilient products on top of NodeJs and Go<br>
 
 ⚡ You can check my [blog](http://meska54.hashnode.dev) for more info. <br/>
 ⚡ You can also check my [reading list](https://www.goodreads.com/user/show/88803068-yousef-meska) to see my reading progress and books recommendations
