@@ -1,21 +1,11 @@
 <h1 align="left">Hola 👋</h1>
 
-I am Yousef, a Software Engineer obsessed with Javascript and Go highly focused on the performance of web applications. <br>
-My main interest is building scalable server-side solutions that follows best practices and clean architecture.
+I am Yousef, a Software Engineer obsessed with Java, Javascript and Go highly focused on the performance of web applications. <br>
+My main interest is building scalable server-side solutions that follow best practices and clean architecture.
 
 
 ⚡ You can check my [blog](http://meska54.hashnode.dev) for more info. <br/>
 ⚡ You can also check my [reading list](https://www.goodreads.com/user/show/88803068-yousef-meska) to see my reading progress and books recommendations
-<!-- - 🎓 Computer Engineering @ <a href="http://www.menofia.edu.eg/fee/Home/en">Faculty of Electronics Engineering</a>
-- ✍️ Technical Blogger @ <a href="https://hashnode.com/@meska54" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode" /></a>
-- 🏃‍♂️ Passionate about Back-End Engineering and Software Architecture
-- 💬 Ask me about Node, React or anything related to JS :D
-- 🌱 I’m currently learning **Go** | **Distributed Systems** | ELK stack
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/yousef-meska/">Linked in</a> || <a href="https://twitter.com/meska54">Twitter </a>
-- Other profiles: <a href="https://leetcode.com/yousef_meska/">Leetcode</a> || <a href="https://app.pluralsight.com/profile/yousef-meska">Pluralsight</a> || <a href="https://www.datacamp.com/profile/yousefmeska">Datacamp</a>
-- ⚡ Fav quote:
-
-> Everything comes down to Practice. -->
 
 ⚡️ Programming Languages
 ------
@@ -42,6 +32,7 @@ Open Source & Projects
 
 | Topic  | Summary |
 | ------------- | ------------- |
+| [Kafka with Spring boot](https://github.com/MrBomber0x001/Kafka-Spring-Boot-Demo) | A producer/consumer event-driven apps using kafka, event-driven arch with spring boot |
 | [Database Notes](https://github.com/MrBomber0x001/db-notes) |A centralized repo about Advanced Database Notes Gathered From Datacamp, CMU, leetcode, and much more!|
 | [Docker Internals](https://github.com/MrBomber0x001/Docker-internals) | Practical walkthrough into Docker Internals & Containerization beside resources to dig deep!|
 |[Instabug internship](https://github.com/MrBomber0x001/instabug-intern-2022)  |Solution to Instabug 2-phase internship interview [Backend]|
